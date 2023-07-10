@@ -1,4 +1,45 @@
+/* global style  */
 *{
     margin: 0px;
     padding: 0px;
+}
+.title{
+    font-size: 42px;
+    margin: 20px;
+}
+.description{
+    font-size: 18px;
+    margin: 20px;
+}
+.btn{
+    font-size: 18px;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 20px;
+    color: white;
+    background-color: #E55473;
+    border: none;
+}
+
+/* banner style   */
+.banner-container{
+    background-color: #E554731A;
+    display: flex;
+    padding-right:30px;
+    padding-left: 30px;
+    align-items: center;
+}
+.banner-info{
+    padding: 50px;
+    margin-left: 15%;
+}
+.banner-image{
+    margin-top: ;
+}
+
+/* featured flowers style  */
+
+.featured-flower{
+    text-align: center;
+    margin-top: 150px;
 }
