@@ -108,3 +108,23 @@
     padding: 60px;
     margin-right: 95px;
 }
+
+/* social style  */
+
+.social{
+    text-align: center;
+    padding: 25px 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 100px;
+}
+.social-flower{
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+    height: 350px;
+}
+.social-single-flower{
+    width: 250px;
+    height: 300px;
+}
