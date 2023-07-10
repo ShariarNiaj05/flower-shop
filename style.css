@@ -150,3 +150,15 @@
     border: none; 
     padding: 5px;
 }
+/* footer style  */
+footer{
+    text-align: center;
+    padding-top: 75px;
+    height: 250px;
+    color: white;
+    background-color: black;
+    margin-top: 60px;
+}
+span{
+    color: red;
+}
