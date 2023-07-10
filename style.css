@@ -44,21 +44,47 @@
     text-align: center;
     margin-top: 150px;
 }
-.flower-showcase{
+
+.flower-showcase {
     display: flex;
     justify-content: center;
-    
-}
-.single-flower{
-    height: 35px;
-    width: 464px;
-height: 538px;
 
 }
-.featured-one-image{
-border-radius: 300px 300px 0px 0px;
-background: rgba(167, 33, 98, 0.15);
-padding: 35px 10px 0px 10px;
-margin-right: 78px;
-margin-left: 78px;
+
+.single-flower {
+    width: 464px;
+    height: 538px;
+
+}
+
+.featured-one-image {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 35px 10px 0px 10px;
+    margin-right: 78px;
+    margin-left: 78px;
+    
+}
+
+.Vase {
+    /* margin-top: 60px; */
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.yellow {
+    /* margin-bottom: -50;
+    padding-top: 25px; */
+    background: rgba(71, 125, 17, 0.15);
+}
+/* support section style  */
+.support-details{
+    text-align: center;
+    display: flex;
+    justify-content:space-evenly;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 50px;
+    margin-top: 60px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 5px;
 }
