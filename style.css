@@ -1,17 +1,20 @@
 /* global style  */
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
-.title{
+
+.title {
     font-size: 42px;
     margin: 20px;
 }
-.description{
+
+.description {
     font-size: 18px;
     margin: 20px;
 }
-.btn{
+
+.btn {
     font-size: 18px;
     padding: 15px;
     border-radius: 5px;
@@ -22,24 +25,22 @@
 }
 
 /* banner style   */
-.banner-container{
+.banner-container {
     background-color: #E554731A;
     display: flex;
-    padding-right:30px;
+    padding-right: 30px;
     padding-left: 30px;
     align-items: center;
 }
-.banner-info{
+
+.banner-info {
     padding: 50px;
     margin-left: 15%;
-}
-.banner-image{
-    margin-top: ;
 }
 
 /* featured flowers style  */
 
-.featured-flower{
+.featured-flower {
     text-align: center;
     margin-top: 150px;
 }
