@@ -44,3 +44,21 @@
     text-align: center;
     margin-top: 150px;
 }
+.flower-showcase{
+    display: flex;
+    justify-content: center;
+    
+}
+.single-flower{
+    height: 35px;
+    width: 464px;
+height: 538px;
+
+}
+.featured-one-image{
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 35px 10px 0px 10px;
+margin-right: 78px;
+margin-left: 78px;
+}
